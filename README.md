@@ -34,8 +34,8 @@ Nesse projeto foi desenvolvido Front-end da home page do instagram, repassado no
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./github/preview.jpg" width="80%">
 </p>
-<p align="center"> Baixe a pasta da aplicação <a href="https://drive.google.com/drive/folders/1DdQKXfeU1I2BDkP-AI0npFY5fqF3qbwo?usp=sharing" target="_blank">aqui</a> 👈 <br>
-depois execute dentro da pasta o arquivo <i>insta eletron.exe</i>.</p>
+<p align="center"> Baixe a pasta da aplicação <a href="https://drive.google.com/file/d/1MDtvewKIPvsoOSZYmn4viONGCdFBWqfA/view?usp=sharing" target="_blank">aqui</a> 👈 <br>
+depois extraia o arquivo e execute dentro da pasta o <i>insta eletron.exe</i>.</p>
 <br>
 
 ## 😉 Obrigado por visitar meu projeto
