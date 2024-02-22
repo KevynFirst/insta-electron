@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo Instagram" src=".github/logo.png" width="200px" />
+  <img alt="Logo Instagram" src="./github/logo.png" width="200px" />
 </p>
 <p align="center">
 Front-end clone do instagram, repassado no curso da Danki Code Front-end completo convertido para app desktop, com eletron.js.
@@ -32,7 +32,7 @@ Nesse projeto foi desenvolvido Front-end da home page do instagram, repassado no
 
 ## 🖥 Preview
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.jpg" width="80%">
+  <img alt="Preview do projeto desenvolvido." src="./github/preview.jpg" width="80%">
 </p>
 <p align="center"> Baixe a pasta da aplicação <a href="https://drive.google.com/drive/folders/1DdQKXfeU1I2BDkP-AI0npFY5fqF3qbwo?usp=sharing" target="_blank">aqui</a> 👈 <br>
 depois execute dentro da pasta o arquivo <i>insta eletron.exe</i>.</p>
