@@ -12,6 +12,7 @@ Front-end clone do instagram, repassado no curso da Danki Code Front-end complet
 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/Danki-Course-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dev-Project-purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 <br>
